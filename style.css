@@ -124,3 +124,15 @@ label {
     max-width: 1300px;
     margin: 50px auto;
 }
+
+@media (max-width: 400px) {
+    #sidebar {
+        display: none;
+    }
+
+    .sidebar-btn {
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+    }
+}

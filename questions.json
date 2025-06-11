@@ -1,6 +1,7 @@
 {
     "CNPM": [
         {
+            "id": 0,
             "question": "Thiết kế phần mềm là gì?",
             "options": [
                 "Quá trình viết mã nguồn",
@@ -11,6 +12,7 @@
             "correctAnswer": "Quá trình xác định các thành phần phần mềm và mỗi liên kết giữa chúng dựa trên yêu cầu của khách hàng"
         },
         {
+            "id": 1,
             "question": "Hiện thực phần mềm là gì?",
             "options": [
                 "Quá trình kiểm thử phần mềm",
@@ -21,6 +23,7 @@
             "correctAnswer": "Quá trình hiện thực hóa thiết kế thành chương trình"
         },
         {
+            "id": 2,
             "question": "Thiết kế và hiện thực phần mềm là hai hoạt động như thế nào?",
             "options": [
                 "Tách biệt hoàn toàn",
@@ -31,11 +34,13 @@
             "correctAnswer": "Đan xen lẫn nhau"
         },
         {
+            "id": 3,
             "question": "Thiết kế hướng đối tượng sử dụng gì để biểu diễn?",
             "options": ["UML", "SQL", "HTML", "XML"],
             "correctAnswer": "UML"
         },
         {
+            "id": 4,
             "question": "Thiết kế mẫu là gì?",
             "options": [
                 "Một phương pháp lập trình",
@@ -46,6 +51,7 @@
             "correctAnswer": "Một phương pháp để giải quyết các vấn đề thiết kế thường gặp"
         },
         {
+            "id": 5,
             "question": "Phát triển mã nguồn mở liên quan đến gì?",
             "options": [
                 "Sử dụng phần mềm đóng gói",
@@ -56,6 +62,7 @@
             "correctAnswer": "Sử dụng và phát triển các thành phần mã nguồn mở"
         },
         {
+            "id": 6,
             "question": "Một trong những nguyên tắc chính trong thiết kế giao diện người dùng là gì?",
             "options": [
                 "Tối ưu hóa cho các thiết bị di động",
@@ -66,6 +73,7 @@
             "correctAnswer": "Tính đến nhu cầu, kinh nghiệm và khả năng của người dùng hệ thống"
         },
         {
+            "id": 7,
             "question": "Thiết kế UI cần nhận thức được điều gì?",
             "options": [
                 "Các hạn chế về tài chính của dự án",
@@ -76,6 +84,7 @@
             "correctAnswer": "Các hạn chế về vật lý và tinh thần của người dùng"
         },
         {
+            "id": 8,
             "question": "Các mô hình thiết kế hệ thống có vai trò gì trong dự án lớn?",
             "options": [
                 "Giảm thời gian phát triển",
@@ -86,6 +95,7 @@
             "correctAnswer": "Là cơ chế giao tiếp quan trọng giữa các nhóm thiết kế khác nhau"
         },
         {
+            "id": 9,
             "question": "Thiết kế thuật toán là gì?",
             "options": [
                 "Quá trình thiết kế giao diện người dùng",
@@ -96,6 +106,7 @@
             "correctAnswer": "Quá trình thiết kế các thuật toán để giải quyết các vấn đề cụ thể"
         },
         {
+            "id": 10,
             "question": "Thiết kế cơ sở dữ liệu liên quan đến điều gì?",
             "options": [
                 "Thiết kế giao diện người dùng",
@@ -106,6 +117,7 @@
             "correctAnswer": "Thiết kế cấu trúc và tổ chức của cơ sở dữ liệu"
         },
         {
+            "id": 11,
             "question": "Trong thiết kế giao diện người dùng, cần thừa nhận điều gì?",
             "options": [
                 "Người dùng luôn biết cách sử dụng hệ thống",
@@ -116,6 +128,7 @@
             "correctAnswer": "Ai cũng có thể nhầm lẫn"
         },
         {
+            "id": 12,
             "question": "Mục tiêu chính của thiết kế giao diện người dùng là gì?",
             "options": [
                 "Tăng tốc độ phát triển phần mềm",
@@ -126,6 +139,7 @@
             "correctAnswer": "Đáp ứng nhu cầu và trải nghiệm người dùng"
         },
         {
+            "id": 13,
             "question": "Quá trình thiết kế phần mềm bao gồm gì?",
             "options": [
                 "Viết mã nguồn",
@@ -136,6 +150,7 @@
             "correctAnswer": "Định nghĩa các thành phần phần mềm và mối liên kết giữa chúng"
         },
         {
+            "id": 14,
             "question": "Một ví dụ về biểu đồ hoạt động trong thiết kế phần mềm là gì?",
             "options": [
                 "Biểu đồ lớp",
@@ -146,6 +161,7 @@
             "correctAnswer": "Biểu đồ hoạt động swimming lane"
         },
         {
+            "id": 15,
             "question": "Quản lý bản quyền trong thiết kế phần mềm liên quan đến điều gì?",
             "options": [
                 "Sử dụng các thành phần mã nguồn mở mà không cần kiểm tra",
@@ -156,6 +172,7 @@
             "correctAnswer": "Duy trì thông tin về các thành phần mã nguồn mở đã tải về và sử dụng"
         },
         {
+            "id": 16,
             "question": "Một trong những nguyên tắc quan trọng trong thiết kế phần mềm là gì?",
             "options": [
                 "Giảm thiểu số lượng mã nguồn",
@@ -166,6 +183,7 @@
             "correctAnswer": "Đảm bảo phần mềm dễ dàng bảo trì và mở rộng"
         },
         {
+            "id": 17,
             "question": "Thiết kế cơ sở dữ liệu bao gồm việc gì?",
             "options": [
                 "Xác định cấu trúc dữ liệu và cách tổ chức dữ liệu trong cơ sở dữ liệu",
@@ -176,6 +194,7 @@
             "correctAnswer": "Xác định cấu trúc dữ liệu và cách tổ chức dữ liệu trong cơ sở dữ liệu"
         },
         {
+            "id": 18,
             "question": "Thiết kế thuật toán có vai trò gì trong phần mềm?",
             "options": [
                 "Định nghĩa các giao diện người dùng",
@@ -186,6 +205,7 @@
             "correctAnswer": "Giải quyết các vấn đề cụ thể bằng cách xác định các bước xử lý"
         },
         {
+            "id": 19,
             "question": "Mục đích của việc hiện thực phần mềm là gì?",
             "options": [
                 "Đáp ứng các yêu cầu thiết kế chi tiết",
@@ -196,6 +216,7 @@
             "correctAnswer": "Đáp ứng các yêu cầu thiết kế chi tiết"
         },
         {
+            "id": 20,
             "question": "Unit Implementation được hiểu là gì?",
             "options": [
                 "Lập trình các đơn vị phần mềm nhỏ nhất",
@@ -206,6 +227,7 @@
             "correctAnswer": "Lập trình các đơn vị phần mềm nhỏ nhất"
         },
         {
+            "id": 21,
             "question": "Một quy tắc vàng trong hiện thực phần mềm là gì?",
             "options": [
                 "Kiểm tra các yêu cầu và thiết kế lại một lần nữa",
@@ -216,6 +238,7 @@
             "correctAnswer": "Kiểm tra các yêu cầu và thiết kế lại một lần nữa"
         },
         {
+            "id": 22,
             "question": "Tại sao cần xác nhận các thiết kế chi tiết trước khi hiện thực?",
             "options": [
                 "Để đảm bảo các thiết kế đáp ứng yêu cầu của người dùng",
@@ -226,6 +249,7 @@
             "correctAnswer": "Để đảm bảo các thiết kế đáp ứng yêu cầu của người dùng"
         },
         {
+            "id": 23,
             "question": "Mục đích của việc ghi lại lỗi khi sử dụng form là gì?",
             "options": [
                 "Để theo dõi và sửa chữa lỗi một cách hệ thống",
@@ -236,6 +260,7 @@
             "correctAnswer": "Để theo dõi và sửa chữa lỗi một cách hệ thống"
         },
         {
+            "id": 24,
             "question": "Tiêu chuẩn yêu cầu đối với việc mã hóa bao gồm gì?",
             "options": [
                 "Tính đúng đắn và rõ ràng",
@@ -246,6 +271,7 @@
             "correctAnswer": "Tính đúng đắn và rõ ràng"
         },
         {
+            "id": 25,
             "question": "Ước lượng kích thước và thời gian dựa trên gì?",
             "options": [
                 "Dữ liệu đã có",
@@ -256,6 +282,7 @@
             "correctAnswer": "Dữ liệu đã có"
         },
         {
+            "id": 26,
             "question": "Hiện thực mã chương trình bao gồm bước nào sau đây?",
             "options": [
                 "Lập kế hoạch cấu trúc và thiết kế mã",
@@ -266,6 +293,7 @@
             "correctAnswer": "Lập kế hoạch cấu trúc và thiết kế mã"
         },
         {
+            "id": 27,
             "question": "Tại sao cần tự kiểm tra lại thiết kế/cấu trúc trước khi mã hóa?",
             "options": [
                 "Để đảm bảo tính đúng đắn và hiệu quả của mã nguồn",
@@ -276,6 +304,7 @@
             "correctAnswer": "Để đảm bảo tính đúng đắn và hiệu quả của mã nguồn"
         },
         {
+            "id": 28,
             "question": "Quy tắc đặt tên trong hiện thực mã chương trình cần tuân thủ những gì?",
             "options": [
                 "Phù hợp và rõ ràng",
@@ -286,6 +315,7 @@
             "correctAnswer": "Phù hợp và rõ ràng"
         },
         {
+            "id": 29,
             "question": "Kiểm tra Class cần xem xét điều gì?",
             "options": [
                 "Tên Class có thích hợp không",
@@ -296,6 +326,7 @@
             "correctAnswer": "Tất cả các ý trên"
         },
         {
+            "id": 30,
             "question": "Kiểm tra thuộc tính cần xác định điều gì?",
             "options": [
                 "Thuộc tính có cần thiết không",
@@ -306,6 +337,7 @@
             "correctAnswer": "Tất cả các ý trên"
         },
         {
+            "id": 31,
             "question": "Phương pháp kiểm tra phương thức khai dụng cần xác định điều gì?",
             "options": [
                 "Phương thức có cần thiết không",
@@ -316,6 +348,7 @@
             "correctAnswer": "Tất cả các ý trên"
         },
         {
+            "id": 32,
             "question": "Làm thế nào để lập trình 1000 LoC/ngày?",
             "options": [
                 "Lập kế hoạch cấu trúc và thiết kế mã chương trình",
@@ -326,6 +359,7 @@
             "correctAnswer": "Lập kế hoạch cấu trúc và thiết kế mã chương trình"
         },
         {
+            "id": 33,
             "question": "Kiểm tra thuộc tính có cần xác định điều gì?",
             "options": [
                 "Sự cần thiết của thuộc tính",
@@ -336,6 +370,7 @@
             "correctAnswer": "Tất cả các ý trên"
         },
         {
+            "id": 34,
             "question": "Tại sao cần ghi chú lại các mốc thời gian trong quá trình hiện thực mã chương trình?",
             "options": [
                 "Để theo dõi tiến độ và quản lý thời gian hiệu quả",
@@ -346,6 +381,7 @@
             "correctAnswer": "Để theo dõi tiến độ và quản lý thời gian hiệu quả"
         },
         {
+            "id": 35,
             "question": "Việc chuẩn bị để hiện thực bao gồm gì?",
             "options": [
                 "Xác nhận các thiết kế chi tiết phải hiện thực",
@@ -356,6 +392,7 @@
             "correctAnswer": "Tất cả các ý trên"
         },
         {
+            "id": 36,
             "question": "Mục đích của việc biên dịch mã lệnh là gì?",
             "options": [
                 "Kiểm tra và sửa chữa các lỗi cú pháp",
@@ -366,6 +403,7 @@
             "correctAnswer": "Kiểm tra và sửa chữa các lỗi cú pháp"
         },
         {
+            "id": 37,
             "question": "Mục tiêu của kiểm thử phần mềm là gì?",
             "options": [
                 "Để chỉ ra rằng chương trình thực hiện đúng như mong đợi và tìm ra lỗi",
@@ -376,6 +414,7 @@
             "correctAnswer": "Để chỉ ra rằng chương trình thực hiện đúng như mong đợi và tìm ra lỗi"
         },
         {
+            "id": 38,
             "question": "Kiểm thử đơn vị (unit testing) tập trung vào điều gì?",
             "options": [
                 "Kiểm thử chức năng của các đối tượng hay các phương thức",
@@ -386,6 +425,7 @@
             "correctAnswer": "Kiểm thử chức năng của các đối tượng hay các phương thức"
         },
         {
+            "id": 39,
             "question": "Kiểm thử component (component testing) tập trung vào điều gì?",
             "options": [
                 "Kiểm thử giao diện component",
@@ -396,6 +436,7 @@
             "correctAnswer": "Kiểm thử giao diện component"
         },
         {
+            "id": 40,
             "question": "Kiểm thử hệ thống (system testing) tập trung vào điều gì?",
             "options": [
                 "Kiểm thử tương tác giữa các component",
@@ -406,6 +447,7 @@
             "correctAnswer": "Kiểm thử tương tác giữa các component"
         },
         {
+            "id": 41,
             "question": "Kiểm thử tự động nên sử dụng gì để hỗ trợ kiểm thử đơn vị?",
             "options": [
                 "Framework kiểm thử tự động (như JUnit)",
@@ -416,6 +458,7 @@
             "correctAnswer": "Framework kiểm thử tự động (như JUnit)"
         },
         {
+            "id": 42,
             "question": "Mục tiêu của kiểm thử giao diện là gì?",
             "options": [
                 "Tìm ra lỗi gây ra bởi các lỗi giao diện hoặc giả định sai về các giao diện",
@@ -426,6 +469,7 @@
             "correctAnswer": "Tìm ra lỗi gây ra bởi các lỗi giao diện hoặc giả định sai về các giao diện"
         },
         {
+            "id": 43,
             "question": "Một loại giao diện trong kiểm thử giao diện là gì?",
             "options": [
                 "Giao diện có tham số",
@@ -436,6 +480,7 @@
             "correctAnswer": "Giao diện có tham số"
         },
         {
+            "id": 44,
             "question": "Kiểm thử phát triển là trách nhiệm của ai?",
             "options": [
                 "Đội ngũ phát triển phần mềm",
@@ -446,6 +491,7 @@
             "correctAnswer": "Đội ngũ phát triển phần mềm"
         },
         {
+            "id": 45,
             "question": "Kiểm thử phát hành là gì?",
             "options": [
                 "Kiểm thử hệ thống trước khi phát hành cho khách hàng",
@@ -456,6 +502,7 @@
             "correctAnswer": "Kiểm thử hệ thống trước khi phát hành cho khách hàng"
         },
         {
+            "id": 46,
             "question": "Phương pháp kiểm thử hộp đen tập trung vào điều gì?",
             "options": [
                 "Kiểm thử chức năng của hệ thống mà không cần biết cấu trúc bên trong",
@@ -466,6 +513,7 @@
             "correctAnswer": "Kiểm thử chức năng của hệ thống mà không cần biết cấu trúc bên trong"
         },
         {
+            "id": 47,
             "question": "Phương pháp kiểm thử hộp trắng tập trung vào điều gì?",
             "options": [
                 "Kiểm thử cấu trúc bên trong của hệ thống",
@@ -476,6 +524,7 @@
             "correctAnswer": "Kiểm thử cấu trúc bên trong của hệ thống"
         },
         {
+            "id": 48,
             "question": "Phương pháp kiểm thử hộp xám là gì?",
             "options": [
                 "Kết hợp giữa kiểm thử hộp đen và kiểm thử hộp trắng",
@@ -486,6 +535,7 @@
             "correctAnswer": "Kết hợp giữa kiểm thử hộp đen và kiểm thử hộp trắng"
         },
         {
+            "id": 49,
             "question": "Mục tiêu của kiểm thử validation là gì?",
             "options": [
                 "Để chỉ ra rằng phần mềm thỏa mãn các yêu cầu đưa ra",
@@ -496,6 +546,7 @@
             "correctAnswer": "Để chỉ ra rằng phần mềm thỏa mãn các yêu cầu đưa ra"
         },
         {
+            "id": 50,
             "question": "Mục tiêu của kiểm thử defect là gì?",
             "options": [
                 "Để tìm ra các tình huống mà phần mềm không hoạt động đúng như mong đợi",
@@ -506,6 +557,7 @@
             "correctAnswer": "Để tìm ra các tình huống mà phần mềm không hoạt động đúng như mong đợi"
         },
         {
+            "id": 51,
             "question": "Tại sao cần kiểm tra kết quả của việc kiểm thử?",
             "options": [
                 "Để tìm ra lỗi và các bất thường",
@@ -516,6 +568,7 @@
             "correctAnswer": "Để tìm ra lỗi và các bất thường"
         },
         {
+            "id": 52,
             "question": "Kiểm thử người dùng tập trung vào điều gì?",
             "options": [
                 "Kiểm thử phần mềm bởi người dùng cuối",
@@ -526,6 +579,7 @@
             "correctAnswer": "Kiểm thử phần mềm bởi người dùng cuối"
         },
         {
+            "id": 53,
             "question": "Cải tiến quy trình phần mềm bao gồm gì?",
             "options": [
                 "Cải tiến các phương pháp phát triển và kiểm thử phần mềm",
@@ -536,6 +590,7 @@
             "correctAnswer": "Cải tiến các phương pháp phát triển và kiểm thử phần mềm"
         },
         {
+            "id": 54,
             "question": "Bảo trì phần mềm bao gồm gì?",
             "options": [
                 "Sửa lỗi và nâng cấp phần mềm sau khi phát hành",
@@ -546,6 +601,7 @@
             "correctAnswer": "Sửa lỗi và nâng cấp phần mềm sau khi phát hành"
         },
         {
+            "id": 55,
             "question": "Mục đích của việc kiểm thử bản release là gì?",
             "options": [
                 "Để đảm bảo phần mềm hoạt động đúng như mong đợi trước khi phát hành",
@@ -558,6 +614,7 @@
     ],
     "Tester": [
         {
+            "id": 0,
             "question": "Lệnh nào sau đây đúng để thiết lập giá trị trả về của một đối tượng giả lập?",
             "options": [
                 "onInvokeReturn()",
@@ -568,6 +625,7 @@
             "correctAnswer": "when().thenReturn()"
         },
         {
+            "id": 1,
             "question": "JUnit chủ yếu được sử dụng để làm gì?",
             "options": [
                 "Unit Test",
@@ -578,6 +636,7 @@
             "correctAnswer": "Unit Test"
         },
         {
+            "id": 2,
             "question": "Làm thế nào có thể mong đợi một ngoại lệ cụ thể được đưa ra trong 1 TestCase JUnit?",
             "options": [
                 "Sử dụng annotation @ExpectException",
@@ -588,16 +647,19 @@
             "correctAnswer": "Sử dụng phương thức assertThrows()"
         },
         {
+            "id": 3,
             "question": "Annotation nào được sử dụng để chỉ ra một phương thức là phương thức test trong JUnit?",
             "options": ["@Testing", "@Testify", "@TestCase", "@Test"],
             "correctAnswer": "@Test"
         },
         {
+            "id": 4,
             "question": "Hàm so khớp Hamcrest nào giống toán tử &&?",
             "options": ["all", "and", "anyOf", "allOf"],
             "correctAnswer": "allOf"
         },
         {
+            "id": 5,
             "question": "Việc thực hiện các test case chức năng là một phần của ___",
             "options": [
                 "Quá trình xác minh (verification)",
@@ -608,6 +670,7 @@
             "correctAnswer": "Quá trình xác nhận (validation)"
         },
         {
+            "id": 6,
             "question": "Test case Selenium IDE có ba cột: command, target và value. Cột Target lưu trữ dữ liệu gì?",
             "options": [
                 "Phần tử hoặc vị trí nơi lệnh được thực thi",
@@ -618,6 +681,7 @@
             "correctAnswer": "Phần tử hoặc vị trí nơi lệnh được thực thi"
         },
         {
+            "id": 7,
             "question": "Hàm verify() của Mockito dùng để làm gì?",
             "options": [
                 "So sánh kết quả thực tế với kết quả mong đợi",
@@ -628,6 +692,7 @@
             "correctAnswer": "Xác minh 1 phương thức có được gọi hay không"
         },
         {
+            "id": 8,
             "question": "Giả sử đối tượng giả lập objA có 1 phương thức f(). Lệnh nào sau đây đúng để xác định phương thức f() không được gọi?",
             "options": [
                 "assert(objA.never()).f()",
@@ -638,6 +703,7 @@
             "correctAnswer": "verifyNoInteractions(objA)"
         },
         {
+            "id": 9,
             "question": "Phát biểu nào phù hợp nhất cho kết quả mong đợi (expected result)?",
             "options": [
                 "Chỉ được sử dụng trong test component",
@@ -648,6 +714,7 @@
             "correctAnswer": "Hữu ích nhất khi được xác định trước"
         },
         {
+            "id": 10,
             "question": "Phát biểu nào sau đây đúng với Unit test?",
             "options": [
                 "Đó là việc xác nhận các thành phần đơn vị, được thực hiện bởi developer trong môi trường test",
@@ -658,6 +725,7 @@
             "correctAnswer": "Đó là việc xác nhận các thành phần đơn vị, được thực hiện bởi developer trong môi trường phát triển"
         },
         {
+            "id": 11,
             "question": "Phát biểu nào sau đây sai về test tĩnh?",
             "options": [
                 "Test tĩnh có thể đưa ra các phép đo như độ phức tạp chu trình",
@@ -668,6 +736,7 @@
             "correctAnswer": "Test tĩnh yêu cầu phải chạy code"
         },
         {
+            "id": 12,
             "question": "Sự khác biệt giữa lệnh assert và lệnh verify của Selenium IDE là gì?",
             "options": [
                 "Lệnh assert không thành công sẽ dừng kiểm tra nhưng lệnh verify không thành công thì vẫn tiếp tục",
@@ -678,6 +747,7 @@
             "correctAnswer": "Lệnh assert không thành công sẽ dừng kiểm tra nhưng lệnh verify không thành công thì vẫn tiếp tục"
         },
         {
+            "id": 13,
             "question": "Kiểm tra thời gian chờ là:",
             "options": [
                 "Phụ thuộc vào phần mềm và phần cứng",
@@ -688,6 +758,7 @@
             "correctAnswer": "Phụ thuộc vào phần mềm và phần cứng"
         },
         {
+            "id": 14,
             "question": "Phát biểu nào sau đây đúng về phương thức thenReturn() trong Mockito?",
             "options": [
                 "Nó được sử dụng để xác minh rằng một phương thức đã được gọi trên một đối tượng giả",
@@ -698,6 +769,7 @@
             "correctAnswer": "Nó được sử dụng để chỉ định giá trị trả về của một lệnh gọi phương thức trên một đối tượng giả"
         },
         {
+            "id": 15,
             "question": "Trong test double, đối tượng stub khác với đối tượng mock như thế nào?",
             "options": [
                 "Mock mô phỏng kết quả xử lý của một hành động còn stub được sử dụng để xác nhận một hành động có được thực hiện không",
@@ -708,6 +780,7 @@
             "correctAnswer": "Stub mô phỏng kết quả xử lý của một hành động còn mock được sử dụng để xác nhận một hành động có được thực hiện không"
         },
         {
+            "id": 16,
             "question": "Phát biểu nào sau đây đúng về phương thức when() trong Mockito?",
             "options": [
                 "Nó được sử dụng để xác minh rằng một phương thức đã được gọi trên một đối tượng giả",
@@ -718,6 +791,7 @@
             "correctAnswer": "Nó được sử dụng để chỉ định hành vi của một lệnh gọi phương thức trên một đối tượng giả"
         },
         {
+            "id": 17,
             "question": "Phát biểu nào sau đây phù hợp cho khái niệm độ bao phủ?",
             "options": [
                 "Chỉ áp dụng cho unit test, không áp dụng cho system test",
@@ -728,6 +802,7 @@
             "correctAnswer": "Là thước đo một phần của tính kỹ lưỡng của bài kiểm tra"
         },
         {
+            "id": 18,
             "question": "Phát biểu nào sau đây đúng về phương thức never() của Mockito?",
             "options": [
                 "Nó được sử dụng để xác minh rằng một phương thức đã được gọi trên một đối tượng giả",
@@ -738,11 +813,13 @@
             "correctAnswer": "Nó được sử dụng để xác minh rằng một phương thức không được gọi trên một đối tượng giả"
         },
         {
+            "id": 19,
             "question": "assertThat(1.03, is(closeTo(1.0, 0.03))) có kết quả là gì?",
             "options": ["false", "true", "error", "null"],
             "correctAnswer": "true"
         },
         {
+            "id": 20,
             "question": "Hàm nào sau đây được sử dụng để tạo một phần mô phỏng với Mockito?",
             "options": [
                 "spy()",
@@ -753,11 +830,13 @@
             "correctAnswer": "spy()"
         },
         {
+            "id": 21,
             "question": "Cách nào sau đây dùng để tạo mới 1 đối tượng giả lập bằng Mockito?",
             "options": ["mock()", "createMock()", "new Mock()", "newMock()"],
             "correctAnswer": "mock()"
         },
         {
+            "id": 22,
             "question": "Chọn phát biểu đúng cho Smoke testing?",
             "options": [
                 "Nó được thực hiện sau khi quá trình test hệ thống kết thúc",
@@ -768,6 +847,7 @@
             "correctAnswer": "Nó được thực hiện để đảm bảo hệ thống đã sẵn sàng trải qua quá trình kiểm tra chuyên sâu và nghiêm ngặt hơn"
         },
         {
+            "id": 23,
             "question": "Điều quan trọng nhất về thiết kế kiểm thử sớm là:",
             "options": [
                 "Không cần kiểm duyệt",
@@ -778,6 +858,7 @@
             "correctAnswer": "Có thể ngăn chặn lỗi gia tăng"
         },
         {
+            "id": 24,
             "question": "Mục đích của annotation @DisplayName trong JUnit là gì?",
             "options": [
                 "Để chỉ định tên của test suite",
@@ -788,11 +869,13 @@
             "correctAnswer": "Đặt tên hiển thị tùy chỉnh cho phương pháp thử nghiệm"
         },
         {
+            "id": 25,
             "question": "Cú pháp đúng để truy cập giá trị của biến x trong Selenium IDE là gì?",
             "options": ["{x}", "x", "$x", "${x}"],
             "correctAnswer": "${x}"
         },
         {
+            "id": 26,
             "question": "Phương thức nào được sử dụng trong JUnit để kiểm tra xem hai đối tượng có phải là cùng một thể hiện (instance) hay không?",
             "options": [
                 "assertSameInstance()",
@@ -803,6 +886,7 @@
             "correctAnswer": "assertThat()"
         },
         {
+            "id": 27,
             "question": "Loại test nào được thực hiện để kiểm tra xem giao diện người dùng có dễ sử dụng không?",
             "options": [
                 "White Box Testing",
@@ -813,6 +897,7 @@
             "correctAnswer": "Usability Testing"
         },
         {
+            "id": 28,
             "question": "Nguồn nào sau đây là nguồn tốt nhất về 'Kết quả mong đợi' cho các test case 'Kiểm thử chấp nhận' của người dùng?",
             "options": [
                 "Đặc tả chương trình",
@@ -823,6 +908,7 @@
             "correctAnswer": "Yêu cầu của người dùng"
         },
         {
+            "id": 29,
             "question": "Hàm assertTrue('message', A) làm gì?",
             "options": [
                 "Khẳng định rằng điều kiện A là đúng",
@@ -833,6 +919,7 @@
             "correctAnswer": "Khẳng định rằng điều kiện A là đúng"
         },
         {
+            "id": 30,
             "question": "Phát biểu nào sau đây đúng về annotation @Spy trong Mockito?",
             "options": [
                 "Nó được sử dụng để tạo một đối tượng giả (mock)",
@@ -843,6 +930,7 @@
             "correctAnswer": "Nó được sử dụng để tạo một đối tượng giả một phần"
         },
         {
+            "id": 31,
             "question": "Phát biểu nào sau đây phù hợp nhất về kiểm thử?",
             "options": [
                 "Mục tiêu / mục đích của kiểm thử là để chứng minh rằng chương trình hoạt động",
@@ -853,6 +941,7 @@
             "correctAnswer": "Kiểm thử là thực thi phần mềm nhằm mục đích tìm ra những khuyết điểm của phần mềm"
         },
         {
+            "id": 32,
             "question": "Phủ lệnh và phủ nhánh có nghĩa là?",
             "options": [
                 "Mỗi dòng lệnh đều được test",
@@ -863,6 +952,7 @@
             "correctAnswer": "Mọi câu lệnh và mọi nhánh đều được kiểm"
         },
         {
+            "id": 33,
             "question": "Làm cách nào để đánh giá thời gian chạy của một phương thức trong JUnit?",
             "options": [
                 "Sử dụng phương thức assertTimeout",
@@ -873,6 +963,7 @@
             "correctAnswer": "Sử dụng phương thức assertTimeout"
         },
         {
+            "id": 34,
             "question": "Cái nào sau đây là một CSS locator tương đương với XPath //div[@id=’example’)?",
             "options": [
                 "css=div.example",
@@ -883,6 +974,7 @@
             "correctAnswer": "css=div#example"
         },
         {
+            "id": 35,
             "question": "Trường hợp nào sẽ là trường hợp kiểm thử chức năng cho hệ thống đặt chỗ trực tuyến?",
             "options": [
                 "Kiểm tra cách hệ thống hoạt động khi số lượng lớn người dùng đang truy cập trang web",
@@ -893,6 +985,7 @@
             "correctAnswer": "Kiểm tra xem người dùng có thể đặt vé từ Mumbai đến Goa không"
         },
         {
+            "id": 36,
             "question": "Phát biểu nào sau đây đúng về các hoạt động 'verification' trong kiểm thử?",
             "options": [
                 "Kiểm tra xem chúng ta đang xây dựng hệ thống có đúng không",
@@ -903,6 +996,7 @@
             "correctAnswer": "Kiểm tra xem chúng ta đang xây dựng hệ thống có đúng không"
         },
         {
+            "id": 37,
             "question": "Một kỹ thuật kiểm thử phổ biến trong quá trình Unit test là:",
             "options": [
                 "Kiểm tra độ phủ lệnh và phủ nhánh",
@@ -913,6 +1007,7 @@
             "correctAnswer": "Kiểm tra độ phủ lệnh và phủ nhánh"
         },
         {
+            "id": 38,
             "question": "Annotation nào xác định 1 phương thức test có tham số?",
             "options": [
                 "@ParameterizedTest",
@@ -923,6 +1018,7 @@
             "correctAnswer": "@ParameterizedTest"
         },
         {
+            "id": 39,
             "question": "Phát biểu nào sau đây đúng về quá trình xây dựng phần mềm theo hướng tiếp cận TDD?",
             "options": [
                 "Trải qua 3 giai đoạn: test, code, retest",
@@ -933,6 +1029,7 @@
             "correctAnswer": "Trải qua 3 giai đoạn: red, green, refactor"
         },
         {
+            "id": 40,
             "question": "Phát biểu nào sau đây không phải là một trong những nguyên tắc của kiểm thử?",
             "options": [
                 "Lỗi thường phân bố tập trung",
@@ -943,6 +1040,7 @@
             "correctAnswer": "Kiểm thử phải đạt được 100% độ bao phủ"
         },
         {
+            "id": 41,
             "question": "Trong test double, đối tượng dummy khác với đối tượng fake như thế nào?",
             "options": [
                 "Dummy là đối tượng giả lập, fake là một đối tượng thật nhưng giả đối tượng khác",
@@ -953,6 +1051,7 @@
             "correctAnswer": "Dummy là đối tượng giả lập, fake là một đối tượng thật nhưng giả đối tượng khác"
         },
         {
+            "id": 42,
             "question": "Trình tự đúng của các giai đoạn kiểm thử phần mềm là:",
             "options": [
                 "Đơn vị → Tích hợp → Hệ thống → Chấp nhận",
@@ -963,6 +1062,7 @@
             "correctAnswer": "Đơn vị → Tích hợp → Hệ thống → Chấp nhận"
         },
         {
+            "id": 43,
             "question": "Kiểm thử được thực hiện đầy đủ khi:",
             "options": [
                 "Đạt độ tin cậy cần thiết được thiết lập trong test plan",
@@ -973,6 +1073,7 @@
             "correctAnswer": "Đạt độ tin cậy cần thiết được thiết lập trong test plan"
         },
         {
+            "id": 44,
             "question": "Làm thế nào để chỉ định một phương thức kiểm thử cụ thể sẽ bị bỏ qua trong quá trình thực thi?",
             "options": ["@Skip", "@IgnoreTest", "@Disabled", "@Avoid"],
             "correctAnswer": "@Disabled"
@@ -980,6 +1081,7 @@
     ],
     "Web": [
         {
+            "id": 0,
             "question": "HTML là viết tắt của gì?",
             "options": [
                 "Hyper Text Markup Language",

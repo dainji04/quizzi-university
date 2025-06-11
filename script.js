@@ -85,6 +85,14 @@ function displaySidebar(qs) {
         };
         sidebar.appendChild(btn);
     }
+    // const submitBtn = document.createElement('button');
+    // submitBtn.id = 'sidebar-submit-btn';
+    // submitBtn.innerText = 'Nộp bài';
+    // submitBtn.className = 'sidebar-submit-btn';
+    // submitBtn.onclick = () => {
+    //     document.getElementById('submit').click();
+    // };
+    sidebar.innerHTML += `<button id="submit" style="grid-column: span 3;">Nộp bài</button>`;
 }
 
 function updateSidebarAnswered() {
